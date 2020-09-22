@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+# Welcome to my amazing note taking webpage!
 
 You can use the [editor on GitHub](https://github.com/woodwardem/readingnotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1= Having a growth mindset is extremely important! You have to look at the positives of a hard situation to make a bad experience a good one! 
+## Header 2= 
+### Header 3= Here are some reminders=
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Have positive thoughts!
+2. Encourage others!
+3. Always try your best!
+
 
 **Bold** and _Italic_ and `Code` text
 
