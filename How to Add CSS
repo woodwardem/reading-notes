@@ -1,0 +1,9 @@
+There are three types of CSS 
+1. External
+2. Internal
+3. Inline 
+External refers to a link in HTML. 
+This happens inside the head section. 
+Internal CSS contains no HTML. 
+Inline CSS is supposed to be used sparatically. 
+It can be used with any CSS tag. 
