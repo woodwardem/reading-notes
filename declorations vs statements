@@ -1,0 +1,27 @@
+Control flow-
+block- with curly brackets
+break- transfers program control to the statement following the terminated statement
+other examples of control ===
+empty
+if..else
+switch
+throw 
+try catch
+declarations-
+var== variable 
+let==declares a block scope local variable 
+const== constant
+Functions and classes- 
+function 
+function *=== 
+async functions
+class
+Here are some others statements
+while
+for..of
+for..in
+for await..of
+debugger
+label 
+import
+export
