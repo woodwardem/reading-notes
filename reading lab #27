@@ -1,1 +1,15 @@
-
+java script has unary and binary operators.
+Unary operators requires a single operand. It can go before or after the operator. 
+Example===x++ or ++x
+There are multiple different types of operators but one is comparison operators-
+true(==) if operands are equal
+not equal(!=) of operands are not equal
+strict equal(===) returns true if operands are equal and the same type.
+strict not equal(!==) 
+Then there are strings!
+these help you make like sentences
+Here is a list of some more operators-
+insanceOf
+relational
+typeOf
+And so much more!
