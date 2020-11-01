@@ -1,1 +1,10 @@
+Loops allow you to runover and reuse functions for lines of code. 
+This is very useful because instead of rewriting the same function over and over again you can use loops to do the instruction of the function over and over until it hits a stop tag. 
+If the code has no stop point the loops will go on and on forever.
+In other words, loops allow you to run or execute the same exact code multiple times.
+there are multiple different types of loops!
+1. while loops
+2. for loops
+3. do while loop
+And many more!
 
