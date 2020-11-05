@@ -1,0 +1,6 @@
+The doctype requried type <!DOCTYPE html>. 
+This tag shows its html 5. <!DOCTYPE html> goes on the top of the page/document. 
+The main one purpose of this tag is to stop or prevent the browser from switching to "quirk's mode". 
+It ensures that the browser tries to make the specifications instead of using a rendering mode browser. 
+The <head> tag holds machine processing info. The <header> tag holds more of human information that is visible. 
+The <head> tag holds the <title> tag. 
