@@ -1,0 +1,8 @@
+The <h1> through <h6> elements are all section headings. The <h1> heading is the highest/most important heading and <h6> is the smallest/ least important. 
+It's important to remember not to use the header tags to fix the font-size. For this, use the css- font-size property. 
+Try not to skip headings. For example, after <h1> use the <h2> tag. This is because then the reader will get confused and wonder where the missing header is. 
+It's very important to only use 1 <h1> tag. 
+Each of the header tags decrease in size. So <h1> is the biggest because it expresses the main idea and content of your page. <H6> is the smallest in size. 
+You can skip heading tags when headings are nested and when closing a subsection.
+Using attributes like the id tag and the aria-labelledby are useful when there is more than one sectioning tool or element on the same one page. 
+
