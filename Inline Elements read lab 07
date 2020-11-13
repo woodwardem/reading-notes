@@ -1,0 +1,14 @@
+HTML has inline and block elements. 
+Inline elements only take up space surrounded /bounded with tags that define elements. Inline elements do not break the flow of the content/code. 
+For example, a <span> tag does not break up the flow of the whole paragraph even though its inside a <div> tag paragraph. 
+When you change the <span> tag to a <p> tag that code inside the <p> tag will take up a whole line cause it is a block element. 
+Here are some inline elements
+-<a>
+-<abbr>
+<b>
+<bdi>
+<i>
+<iframe>
+<input>
+<img>
+And there are some many more!
