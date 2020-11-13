@@ -1,0 +1,18 @@
+Formatting elements- display special types of text. 
+-<b>
+-<strong>
+-<i>
+-<em>
+-<mark>
+-<small>
+-<del>
+and more.
+The <b> tag makes the text bold without any extra importance. 
+The <strong> also makes the text bold with importance. 
+The <i> tag italicizes the text. 
+The <em> tag empasizes the tag. 
+The <small> tag makes the text smaller. 
+The <mark> tag highlightes the tag. 
+The <sup> tag defines superscripted text, 
+All in all, there are so many types of tags for HTML. 
+
