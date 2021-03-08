@@ -4,3 +4,4 @@ Specifically, for my code 201 class in high school.
 [Reading Day 9](reading_9.md)
 
 
+Toadys notes are on the DOM
