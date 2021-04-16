@@ -1,0 +1,9 @@
+<h1>Object Constructor Function</h1>
+<p>An object constructor function is like a template or cookie cutter that can quickly create a new object or whatever the object is (person, animal...). After you create the constructor function it makes it easier to make a new object (person, animal...) instead of completely making a brand new object function, and creating the element. This takes a ling time and a lot of code when it could be alot shorter. The constructor function allows you to stamp out multiple new objects.</p>
+
+<h1>Object Instantiation</h1>
+<p>Object instantiation is when you use the constructor function to make a new object, then call it and render it. The keyword to making this work is this the word, NEW. After you do this you have to call and render it. For example, if the new object is mccall, it would be mccall.render. To make it show up on the screen, you have to render it. </p>
+<h1>Prototypal Inheritance</h1>
+<p>Prototypal inheritance is a way to create new objects and/ or a template for your onject or future ones. Prototype specifically is a way to add new properties in a already created constructor function. It is a way to add something in but keep it broad enough to where it works for multiple things.</p>
+<h1>Object Oriented Programming</h1>
+<p>Object oriented programming is where your code and program is focused on and centered around objects. Objects can help build your website in a more efficient way. Using objects in js is useful becaus eyou are learning to contorl your html with js. All in all, objects are useful because it keeps you away from hard-coding. </p>
