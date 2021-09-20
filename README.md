@@ -7,3 +7,4 @@ HTML DOCS
 
 Today's reading notes was on the DOM- 3-8-21
 What I learned
+
