@@ -3,5 +3,5 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 
 ## Table Of Contents
 
-- [ES6 Introduction](es6-intro.md)
+- [ES6 Introduction](es6Intro.md)
 - [Arrow Functions](arrowFunctions)
