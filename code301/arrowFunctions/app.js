@@ -108,42 +108,36 @@ const newObject = array => ({
 
 
 
-let sum = function(a, b, c, d) {
-  return a + b + c + d;
-};
+const sum = (a, b, c, d) => `${a} + ${b} + ${c} + ${d} = ${a + b + c +d}`;
+ 
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(sum(1, 2, 3, 4));
+ console.log(sum(1, 2, 3, 4));
 
 
-let objectLit = function() {
-  return {
+const objectLit = array => ({
     key1: 'value1',
     key2: 'value2',
     key3: 'value3',
-  };
-};
+});
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(objectLit());
+ console.log(objectLit());
 
 
-let sumAndProduct = function(a, b) {
-  let sum = a + b;
-  let product = a * b;
-  return [sum, product];
-};
+const sumAndProduct = (a, b) => `${a} + ${b} = ${a + b} ${a} * ${b} = ${a * b} `;
+
+
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(sumAndProduct(3, 9));
+ console.log(sumAndProduct(3, 9));
 
 
-let message = function(name) {
-  return `Hello, ${name}!`;
-};
+const message = name => `Hello, ${name}!`;
+
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(message('Allie'));
+console.log(message('Allie'));
 
 
 let Student = function(name, age, hometown) {
@@ -151,12 +145,12 @@ let Student = function(name, age, hometown) {
   this.age = age;
   this.hometown = hometown;
 };
-
+//I changed it into an arrow function, saw the error then switched it back to a normal function. 
 let joe = new Student('Joe', 'Schmoe', 100);
 
 // TODO: Uncomment the following line of code to see the output in the browser console
 // Note that the arrow function will cause this code to break!
-// console.log(joe);
+ //console.log(joe);
 
 // TODO: After viewing the previous console.log(), return the code to a working state.
 
