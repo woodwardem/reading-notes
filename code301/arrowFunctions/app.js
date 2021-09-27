@@ -115,9 +115,9 @@ const sum = (a, b, c, d) => `${a} + ${b} + ${c} + ${d} = ${a + b + c +d}`;
  console.log(sum(1, 2, 3, 4));
 
 
-const objectLit = array => ({
+const objectLit = object => ({
     key1: 'value1',
-    key2: 'value2',
+    key2: 'value2', 
     key3: 'value3',
 });
 
