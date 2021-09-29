@@ -31,7 +31,10 @@
 
 11. EXTRA CREDIT: What is object oriented programming?
   - Object oriented programming is where an application is built and relies on objects. An example of this would be the game minecraft. 
+  
 
+  class expressions can be made or unmade, if made the name is specific to that class only 
+  the contructor method is optional
 ---
 
 ## 📚 Resources 
