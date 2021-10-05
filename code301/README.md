@@ -5,3 +5,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 
 - [ES6 Introduction](es6Intro.md)
 - [Arrow Functions](arrowFunctions)
+- [React App Component](reactComponents.md)
