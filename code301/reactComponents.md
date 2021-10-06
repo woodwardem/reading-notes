@@ -1,15 +1,15 @@
 # ✍️ Notes
 1. What does the import statement do?
-  - Write your answer here...
+  - The import statement is used to import read only bindings that are live, which are exported by another module.
 
 2. How does React know you are referring to a React component?
-  - Write your answer here...
+  - React knows you are referring to another React component 
 
 3. What is `<Header />`, `<Main />` and `<Footer />`?
-  - Write your answer here...
+  - These are 
 
 4. Why must a user-defined component be capitalized?
-  - Write your answer here...
+  - A userdefined component must be capitalized because the capital indicates that the JSX tag is referring to a react component. 
 
 5. What is a fragment?
  - Write your answer here...
