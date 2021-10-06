@@ -168,9 +168,8 @@ Student.prototype.greeting = function() {
 
 
 
-Student.courseName = (course) => {
- return 'This student is enrolled in Code 301.';
-}
+Student.courseName = course =>  'This student is enrolled in Code 301.';
+
 
 // TODO: Uncomment the following line of code to see the output in the browser console
  console.log(Student.courseName());
