@@ -15,13 +15,13 @@
  - Write your answer here...
 
 6. What does the keyword `class` tell us about this App Component?
-  - Write your answer here...
+  - They keyword class tells us 
 
 7. What does the keyword `extends` do?
   - The keyword extends is used to create a class that is the child of another class. It also can create a subclass custom class. 
 
 8. What data type is React.Component?
-  - Write your answer here...
+  - React.Component is a class. 
 
 9. When do you not need to implement a constructor method?
   - You do not need to implement a constructor method if you don't initialize state. 
@@ -37,7 +37,7 @@
   - Render() examines the props and the state, it then can return React elements back onto the screen. 
 
 13. What does `export default` do?
-  - Write your answer here...
+  - Export default is used when making JS modules to export bindings to objects, functions, or values from the module so that they can be used by other programs. 
 
 ---
 
