@@ -3,19 +3,19 @@
   - The import statement is used to import read only bindings that are live, which are exported by another module.
 
 2. How does React know you are referring to a React component?
-  - React knows you are referring to another React component 
+  - React knows you are referring to another React component when you use extends React.Component. 
 
 3. What is `<Header />`, `<Main />` and `<Footer />`?
-  - These are 
+  - These are HTML elements that are imported in by JS. This is called JSX when in a JS file. 
 
 4. Why must a user-defined component be capitalized?
   - A userdefined component must be capitalized because the capital indicates that the JSX tag is referring to a react component. 
 
 5. What is a fragment?
- - Write your answer here...
+ - A fragment is is top element that lets you group a list of children without adding extra nodes to the DOM. 
 
 6. What does the keyword `class` tell us about this App Component?
-  - They keyword class tells us 
+  - They keyword class tells us there is a class being created, that will hold data. 
 
 7. What does the keyword `extends` do?
   - The keyword extends is used to create a class that is the child of another class. It also can create a subclass custom class. 
