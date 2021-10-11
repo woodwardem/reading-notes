@@ -1,15 +1,15 @@
 # ✍️ Notes
 1. Class Components have a built-in object called what?
-  - Class Components have 
+  - Class Components have a built-in state objects. 
 
 2. What do you store in the state object?
-  - Write your answer here...
+  - The state object holds property values that belong to a certain component. 
 
 3. What happens to make the component re-render?
-  - Write your answer here...
+  - When the state object updates or changes the component re-renders. 
 
 4. If your component has a constructor, what needs to be passed to it?
-  - Write your answer here...
+  - Props should always be passed in if your component has a constructor. 
 
 5. What happens if `super(props` isn't called?
   - Write your answer here...
