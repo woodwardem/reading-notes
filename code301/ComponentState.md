@@ -12,25 +12,25 @@
   - Props should always be passed in if your component has a constructor. 
 
 5. What happens if `super(props` isn't called?
-  - Write your answer here...
+  - If you don't pass super(props) you will get a warning. It will say this is not aloud. 
 
 6. How many properties can your state object have?
- - Write your answer here...
+ - Your state object can hold as many properties as you want. 
 
 7. What happens when a value in the state object changes?
-  - Write your answer here...
+  - When a value in the state objects changes the whole entire component re-renders. The HTML re-renders values to the DOM. All the values chnage, then render takes thme and updates them to the whole system. 
 
 8. What method do you use to update the state object?
-  - Write your answer here...
+  - You use the this.setState() method. 
 
 9. What syntax allows us to access to a value in state?
-  - Write your answer here...
+  - You would use the this.state.propertyname syntax to access a value in state. 
 
 10. What does onClick do?
-  - Write your answer here...
+  - onClick will update your state properties. 
 
 11. What kind of function do we use when defining our custom methods?
-  - Write your answer here...
+  - When defining our custom methods, we use arrow functions. 
 
 ---
 
