@@ -6,7 +6,7 @@
   - React knows you are referring to another React component when you use extends React.Component. 
 
 3. What is `<Header />`, `<Main />` and `<Footer />`?
-  - These are HTML elements that are imported in by JS. This is called JSX when in a JS file. 
+  - These are HTML elements that are imported in by JS. This is called JSX when in a JS file. These are custom react components. 
 
 4. Why must a user-defined component be capitalized?
   - A userdefined component must be capitalized because the capital indicates that the JSX tag is referring to a react component. 
