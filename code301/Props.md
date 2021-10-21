@@ -34,9 +34,11 @@ you must use this.props.propertyname
 
 12. Can you send props back up to a parent component?
 - No
+You gave to perform a lift state. 
 
 13. How do you lift state?
-- You lift state by making a new function called liftState. Inside the function you do, this.props.methodname. You have to create a function in your js. Then inside that you will have a string of what you are trying to say. Then you can make a button to fire your change off. 
+- You can lift state by calling a function in a child component that is being defined in a parent component and passing it in a new value for the state property you are trying to update/lift up so that the application can re-render and pass the new values back down in props. 
+
 
 # Resources
 - [w3 Schools on React Props](https://www.w3schools.com/react/react_props.asp)
