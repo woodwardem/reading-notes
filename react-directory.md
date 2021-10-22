@@ -36,22 +36,22 @@
     - localhost: 3000
 
 12. What is the purpose of a package.json?
-    - your answer goes here...
+    - The purpose of a package.json file is to hold and record metadata about the project. I defines functional attributes of a project that npm uses to install dependencies. 
 
 13. What are node modules?
-    - your answer goes here...
+    - Node modules are a folder that is used to save all downloaded packages from your npmin your computer for the JS project that you have. 
 
 14. What is the .gitignore?
-    - your answer goes here...
+    - .gitignore is a file that specifies intentionally untracked files that Git should ignore. Any file listed in gitignore will Not be pushed to Github. 
 
 15. What is the purpose of the public directory?
-    - your answer goes here...
+    - contains HTML file, index.html. must be named exactly this. 
 
 16. What is the purpose of the public/index.html?
-    - your answer goes here...
+    -
 
 17. What is the purpose of the src directory?
-    - your answer goes here...
+    -  Its the mind of our app. Contains all componenents, tests, css files. 
 
 18. What is the purpose of the src/index.js?
     - your answer goes here...
@@ -70,13 +70,14 @@
     - your answer goes here...
 
 23. What can I get rid of when I am ready to start customizing my React application?
-    - your answer goes here...
+    - public/favicon.ico
+    - public/logo192.png
 
 24. Where can I find build instructions and other helpful React tips?
-    - your answer goes here...
+    - in the ReadMe.md that is generated from CRA. 
 
 25. How do I close down the React server?
-    - your answer goes here...
+    - type control + C in the Terminal. 
 
 # Resources
 - [w3Schools: CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
