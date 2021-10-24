@@ -12,7 +12,7 @@
     - npx create-react-app name-my-app
 
 4. What does create-react-app do?
-    - a way to start making a react app. Lets you start building a single app application in react. 
+    - a way to start making a react app and learning react. Lets you start building a single app application in react. Sets up an envioronemnt with the latest JS updates. 
 
 5. What does npx stand for?
     - Node Package Extecutor
@@ -48,30 +48,64 @@
     - contains HTML file, index.html. must be named exactly this. 
 
 16. What is the purpose of the public/index.html?
-    -
+    - No answer on this. 
 
 17. What is the purpose of the src directory?
     -  Its the mind of our app. Contains all componenents, tests, css files. 
 
 18. What is the purpose of the src/index.js?
-    - your answer goes here...
+    - didn't go over this
 
 19. What is significant about this line of code?
 `ReactDOM.render(<App />, document.getElementById(‘root’));`
-    - your answer goes here...
+    - didn't go over this
 
 20. What is `ReactDOM`?
-    - your answer goes here...
+    - didn't go over this
 
 21. What is a difference between render() and ReactDOM.render()?
-    - your answer goes here...
+    - didn't go over this
 
 22. What is React.StrictMode?
-    - your answer goes here...
+    - didn't go over this 
 
 23. What can I get rid of when I am ready to start customizing my React application?
-    - public/favicon.ico
-    - public/logo192.png
+    -public/favicon.ico
+public/logo192.png & logo512.png
+public/manifest.json
+public/robots.txt
+src/App.test.js
+src/logo.svg
+src/setupTests.js
+src/reportWebVitals.js
+App.css: delete everything from line 5 and down
+inside of index.js:
+this text:
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
+//got this from ms,King's git hub 
+this import:
+import reportWebVitals from './reportWebVitals';
+inside of App.js:
+this import:
+import logo from './logo.svg';
+this code:
+<!--<header className="App-header">
+    <img src={logo} className="App-logo" alt="logo" />
+    <p>
+      Edit <code>src/App.js</code> and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Learn React
+    </a>
+  </header>!-->
 
 24. Where can I find build instructions and other helpful React tips?
     - in the ReadMe.md that is generated from CRA. 
