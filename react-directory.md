@@ -48,26 +48,29 @@
     - contains HTML file, index.html. must be named exactly this. 
 
 16. What is the purpose of the public/index.html?
-    - No answer on this. 
+    - It is the page template. Only files inside the public folder can be used from public/index.html. When the application starts this is the first page that is loaded. This is the only html file in the entire application since React is generally written using JSX. This file has a line of code, <div id="root"></div>. This line is very significant since all the application components are loaded into this div. 
 
 17. What is the purpose of the src directory?
     -  Its the mind of our app. Contains all componenents, tests, css files. 
 
 18. What is the purpose of the src/index.js?
-    - didn't go over this
+    - It is the JS entry point and the JS file corresponding to the index.html. This is the most top level script that controls all the components under it. 
 
 19. What is significant about this line of code?
 `ReactDOM.render(<App />, document.getElementById(‘root’));`
-    - didn't go over this
+    - it is saying that the app component has to be loaded into an html element with an id of root. This corresponds with the div element, that has the id of root, in the index.html. We call this a 'root' DOM node because everything inside it will be mananged by React Dom. Application built with just React usually have a single root Dom node. To render a React element into a root DOM node, pass both to ReactDom.render(). 
 
 20. What is `ReactDOM`?
-    - didn't go over this
+    - ReactDom is an API that provides DOM specific methods that can be used at the top level of a web app, to manage those DOM elements. ReactDom provides the render method and a few others. ReactDom.render() controls the contents of the container node you pass in. 
 
 21. What is a difference between render() and ReactDOM.render()?
-    - didn't go over this
+    - ReactDom.render renders your components to the DOM while a component's render returns the elements that make up the components. 
 
 22. What is React.StrictMode?
-    - didn't go over this 
+    - It is a developmental tool and you don;t need to worry about it impacting your production build. It is a helper component that will help you write better react components, you can wrap a set of components with <StrictMode /> and it will: 
+    -verify that the components inside are following the recommended practices and warn you if not in the console.
+    - verify the deprecated methods are not being used, and if they're used strict  mode will warn you in the console. 
+    -help you prevent some side effects by identifying potential risks. 
 
 23. What can I get rid of when I am ready to start customizing my React application?
     -public/favicon.ico
