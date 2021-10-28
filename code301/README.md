@@ -10,3 +10,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [Component State](ComponentState.md)
 - [Props and DataFlow](Props.md)
 - [react directory](react-directory.md)
+- [intro to algorithms](intro-to-algorithms.md)
