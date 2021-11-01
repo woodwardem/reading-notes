@@ -12,3 +12,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [react directory](react-directory.md)
 - [intro to algorithms](intro-to-algorithms.md)
 - [JS builtin Methods] (js-methods.md)
+- [arrayreview.md] (arrayreview.md)
