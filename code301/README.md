@@ -13,3 +13,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [intro to algorithms](intro-to-algorithms.md)
 - [JS builtin Methods] (js-methods.md)
 - [arrayreview.md] (arrayreview.md)
+- [for loops and callback functions] (for-loops-and-callback-functions.md)
