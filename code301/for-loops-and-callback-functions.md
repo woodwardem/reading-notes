@@ -34,9 +34,9 @@ For Loops Review and Intro to Callback Functions
     4. Then, the iterator expression is executed and either increments or decrements the loop to the next iteration. 
     5. Lastly, we circle back up to step 2 and the for loop continues to run until the condition returns false. 
 10. What is a callback function?
-    * 
+    * a function passed as an argument to another function. Allows a function to call another functions. A callback function can run after another function has finished. 
 11. When do we use a callback function?
-    * your answer goes here...
+    *  The place where we will use a callback function is with JS built-in-methods. 
 
 
 # Resources
