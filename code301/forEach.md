@@ -18,9 +18,9 @@
 7. What is the output of forEach?
     *  Undefined is the output of forEach. 
 8. Does forEach mutate the original array?
-   *  your answer goes here...
+   *  By default, foreach does not mutate the original array. 
 9. What does it mean when an argument is optional?
-   *  your answer goes here...
+   * It means that the funcion doesn't require that argument but you can put it in if you want. 
 
 
 # Resources
