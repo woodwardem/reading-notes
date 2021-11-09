@@ -15,3 +15,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [arrayreview.md] (arrayreview.md)
 - [for loops and callback functions] (for-loops-and-callback-functions.md)
 - [for Each] (forEach.md)
+-[Arraymap](arrayMap.md)
