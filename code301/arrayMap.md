@@ -2,16 +2,16 @@
 Array.map()
 
 1. What is the definition of Array.map?
-    * your answer here...
+    * 
 
 2. What data type can you call map on?
-    * your answer here...
+    * array
 
 3. What does the pseudocode for map look like?
-    * your answer here...
+    * array.map(callback(currentValue, index, arr)thisValue);
 
 4. What are the 2 input arguments for map?
-    * your answer here...
+    * 
 
 5. What are the arguments the callback function takes in?
     * your answer here...
