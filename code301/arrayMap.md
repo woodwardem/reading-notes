@@ -14,10 +14,10 @@ Array.map()
     * -callback function
     -contextual thisArg(optional)
 5. What are the arguments the callback function takes in?
-    * your answer here...
+    * 
 
 6. What is currentValue referring to?
-    * your answer here...
+    * The value of the current element in the array that map is looking at. 
 
 7. What is the output of map?
     * A new array with each element being the result of the callback function. 
@@ -26,10 +26,10 @@ Array.map()
     * Map does NOT muatate the original array. 
 
 9. What does it mean when an argument is optional?
-    * 
+    * An optional argument means that map does not care if you pass it a value or not. 
 
 10. What is the only difference between Array.forEach and Array.map?
-    * your answer here...
+    * The only difference between forEach and map is that .map() will always return a new array of the same length as the original array comprised of your return values and forEach will always return undefined. 
 
 ## Resources
   - [MDN on map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
