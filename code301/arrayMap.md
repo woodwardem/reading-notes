@@ -14,7 +14,10 @@ Array.map()
     * -callback function
     -contextual thisArg(optional)
 5. What are the arguments the callback function takes in?
-    * 
+    * -element
+    - index (optional)
+    - array (optional)
+    
 
 6. What is currentValue referring to?
     * The value of the current element in the array that map is looking at. 
