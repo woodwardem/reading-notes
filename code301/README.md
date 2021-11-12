@@ -9,7 +9,7 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [JSX](JSX.md)
 - [Component State](ComponentState.md)
 - [Props and DataFlow](Props.md)
-- [react directory](react-directory.md)
+- [React directory](react-directory.md)
 - [intro to algorithms](intro-to-algorithms.md)
 - [JS builtin Methods](js-methods.md)
 - [arrayreview.md](arrayreview.md)
