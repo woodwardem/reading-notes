@@ -16,3 +16,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [for loops and callback functions](for-loops-and-callback-functions.md)
 - [for Each](forEach.md)
 - [Arraymap](arrayMap.md)
+- [Array filter](arrayFilter.md)
